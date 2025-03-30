@@ -31,7 +31,6 @@
  </footer>
 </body>
 </html>
-git clone<https://github.com/Mohammed-creator-code/MyProfile.git>
 
 <!---
 Mohammed-creator-code/Mohammed-creator-code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
