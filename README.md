@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <body>
   <header>
-     My Profile Page
+     <title>My Profile Page</title>
     <nav>
     <il>About Me</il>
     <nav>
